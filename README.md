@@ -80,3 +80,42 @@ PPT的教程实在太多了，关于软件操作的教程其实意义不大。�
 - [Yandex Image](https://www.yandex.com/images/) 俄语的，不过可以曲线救国，先用翻译不是
 - [LibreStock](http://librestock.com/) 它也是个图片搜索引擎，专注于43个免费图库。有些图库并不向谷歌、必应等搜索引擎开放，因此LibreStock值得你关注
 - [百度图片](http://image.baidu.com/) 也是一个选择
+
+### 图片站
+
+- [flickr](https://www.flickr.com/) 老牌的，雅虎旗下图片分享网站
+- [1x](https://1x.com/) 网址够短吧，打开你就会惊叹
+- [wallbase](http://www.wallbase.cc/) 都是些很唯美的图片
+- [500px](https://500px.com/) 设计师都知道的一个网站
+- [subtlepatterns](http://subtlepatterns.com/) 这里面的图片主要是一些高质量的壁纸，用来做PPT背景是相当不错的
+- [deviantART](http://www.deviantart.com/) 供全高清尺寸的大量免费壁纸
+- [HD Wallpapers](http://wallpaperbeta.com/) 壁纸尺寸可以选择，甚至有高达4K分辨率的壁纸
+
+### 设计图库
+设计图库有免费和付费的资源，无论什么资源，关于版权你自己要负责！
+
+- [站酷](http://www.zcool.com.cn/) 如果你懂一些photoshop和illustrator，那么这里是最实用的
+- [海洛创意](http://www.hellorf.com/) 站酷网旗下的正版素材站，也提供免费小样图供下载
+- [全景网](http://www.quanjing.com/) 号称中国最大最全的图片库
+- [昵图网](http://www.nipic.com/index.html) 国内鼎鼎大名啦
+- [Photl](http://www.photl.com/) 付费图库，但个人用户有免费下载额度
+- [envato](http://market.envato.com/) 付费为主，内容很多
+- [dreamstime](http://www.dreamstime.com/free-photos) 收费图库，不过其免费区提供150多万张精品商业图片提供免费下载
+- [stockvault](http://www.stockvault.net/) 同上
+- [stockvault](http://www.stockvault.net/) 同上
+- [freeimages](http://cn.freeimages.com/) 其前身是匈牙利免费照片库SXC.hu
+- [pexels](https://www.pexels.com/) 还不错的免费图库，无中文版
+
+### 矢量图标
+扁平化PPT的素材来源
+
+- [iconfont](http://www.iconfont.cn/) 阿里旗下，数量无敌，质量需要自行甄别
+- [easyicon](http://www.easyicon.net/) 上海的一家专注于icon图标分享的网站，网站做得还不错
+- [iconmonstr](http://iconmonstr.com/) 国外的，有几千个图标吧
+- [flaticon](http://www.flaticon.com/) 同上，数量多一些，过万了
+- [iconfinder](https://www.iconfinder.com/) 这个也不错
+- [fontawesome](http://fontawesome.io/icons/) 做web前端的都用过吧，不到一千个图标，但都很实用
+- [thenounproject](https://thenounproject.com/) 要下载需要先注册登录
+- [findicons](http://findicons.com/) 里面的图片有很多自定义筛选项，但不是矢量的。因为内容较多，也收录进来
+- [reeoo.com/racket](http://reeoo.com/racket) 这里也可以逛逛
+- [thenounproject](https://thenounproject.com/) 要下载需要先注册登录
