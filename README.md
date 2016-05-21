@@ -30,7 +30,7 @@ PPT的教程实在太多了，关于软件操作的教程其实意义不大。�
 - [许岑的幻灯片制作视频教程【PPT版】](http://i.xue.taobao.com/detail.htm?spm=a2174.7365761.39b9.51.j6GJz7&courseId=32316) 更多的是理念。注意是收费的，因为没发现更好的免费版，先放这里了
 - [简书](http://www.jianshu.com/search?q=ppt&page=1&type=notes) 你没看错，这里有成千上万的PPT教程，只要你愿意，是能淘到宝贝的
 - [大师之路Photoshop及Illustrator教程](http://www.99ut.com/) 不需要成为专家，但对图片处理要有基本的认识
-- [doyoudo](http://doyoudo.com/) 又不是一个PPT的教程网站，但这里包含了很多设计软件的教程，设计是想通的。
+- [doyoudo](http://doyoudo.com/) 又不是一个PPT的教程网站，但这里包含了很多视频、音频软件的教程，设计是相通的。
 
 ## 欣赏
 
