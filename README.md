@@ -75,6 +75,8 @@ PPT的教程实在太多了，关于软件操作的教程其实意义不大。�
 - 思维导图 实际动手做PPT之前的构思工具。相关软件太多，请自行选择喜欢的
 - [ppt美化大师](http://meihua.docer.com/) 体验了一下，提供模板、素材等各种资源
 - [Nordri Tools](http://www.nordritools.com/) 一款号称“让PPT简单起来”的工具，其实我觉得PPT本身也没什么难的
+- [千图网配色工具](http://www.58pic.com/peise/) 配色是设计的灵魂
+- [网页设计常用色彩搭配表](http://tool.c7sky.com/webcolor/#hue_6) 这个配色表也是可以用的
 
 ## 图片素材
 
