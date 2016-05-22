@@ -55,6 +55,7 @@ PPT的教程实在太多了，关于软件操作的教程其实意义不大。�
 - [微软官方的在线模板](http://office.msn.com.cn/List.shtml?cat=PPT) 官方的当然要收录
 - [稻壳儿](http://www.docer.com/?from=wps_template_more) DOCER稻壳儿是国产办公软件WPS旗下的模板网站。除了欣赏付费模板，辛苦淘一淘的话，你可以发现一些免费的蛮精美的PPT模版。
 - [演界网](http://www.yanj.cn/) 演界网是锐普公司旗下的PPT模板素材交易平台
+- [优品PPT](http://www.ypppt.com/) 不错的免费PPT模板站
 - [PPTSTORE](http://www.pptstore.net/) 另一个模板网站
 - [动博网](http://www.dongboke.com/ppt) 动博网上有很多网友上传的PPT模板，大家都可以免费下载
 - [第一PPT](http://www.1ppt.com/) 百度搜索中排名很靠前
