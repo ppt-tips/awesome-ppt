@@ -78,7 +78,7 @@ PPT的教程实在太多了，关于软件操作的教程其实意义不大。�
 - [Nordri Tools](http://www.nordritools.com/) 一款号称“让PPT简单起来”的工具，其实我觉得PPT本身也没什么难的
 - [千图网配色工具](http://www.58pic.com/peise/) 配色是设计的灵魂
 - [网页设计常用色彩搭配表](http://tool.c7sky.com/webcolor/#hue_6) 这个配色表也是可以用的
-- [抽象三角形背景生成](http://qrohlf.com/trianglify-generator/) 流行过一阵了，如果要基于图片做得更强大，可以试试专门的软件Image Triangulator
+- [三角形抽象背景生成](http://qrohlf.com/trianglify-generator/) 这个背景流行过一阵了，要是想基于图片，可以试试Image Triangulator
 
 ## 图片素材
 
