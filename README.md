@@ -91,7 +91,8 @@ PPT的教程实在太多了，关于软件操作的教程其实意义不大。�
 - [bing图片](http://cn.bing.com/images) 没办法用首选，那就用它
 - [Yandex Image](https://www.yandex.com/images/) 俄语的，不过可以曲线救国，先用翻译不是
 - [LibreStock](http://librestock.com/) 它也是个图片搜索引擎，专注于43个免费图库。有些图库并不向谷歌、必应等搜索引擎开放，因此LibreStock值得你关注
-- [百度图片](http://image.baidu.com/) 也是一个选择
+- [搜狗素材搜索](http://sucai.sogou.com/index.shtml) 感觉是专门为设计师做的，还不错
+- [百度图片](http://image.baidu.com/) 也是一个选择，如果你只用中文搜索，或者搜索有中国特色的图片
 
 ### 图片站
 
