@@ -113,7 +113,6 @@ PPT的教程实在太多了，关于软件操作的教程其实意义不大。�
 - [envato](http://market.envato.com/) 付费为主，内容很多
 - [dreamstime](http://www.dreamstime.com/free-photos) 收费图库，不过其免费区提供150多万张精品商业图片提供免费下载
 - [stockvault](http://www.stockvault.net/) 同上
-- [stockvault](http://www.stockvault.net/) 同上
 - [freeimages](http://cn.freeimages.com/) 其前身是匈牙利免费照片库SXC.hu
 - [pexels](https://www.pexels.com/) 还不错的免费图库，无中文版
 
