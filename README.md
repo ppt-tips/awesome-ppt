@@ -80,6 +80,7 @@ PPT的教程实在太多了，关于软件操作的教程其实意义不大。�
 - [网页设计常用色彩搭配表](http://tool.c7sky.com/webcolor/#hue_6) 这个配色表也是可以用的
 - [三角形抽象背景生成](http://qrohlf.com/trianglify-generator/) 这个背景流行过一阵了，要是想基于图片，可以试试Image Triangulator
 - [图片在线压缩](https://tinypng.com/) 如果使用高清大图的素材，但又想方便传播，用它压缩一下图片非常棒
+- [毛笔字在线生成器](http://www.zhenhaotv.com/) 做中国风的时候用得上
 
 ## 图片素材
 
