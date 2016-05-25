@@ -105,6 +105,7 @@ PPT的教程实在太多了，关于软件操作的教程其实意义不大。�
 - [subtlepatterns](http://subtlepatterns.com/) 这里面的图片主要是一些高质量的壁纸，用来做PPT背景是相当不错的
 - [deviantART](http://www.deviantart.com/) 供全高清尺寸的大量免费壁纸
 - [HD Wallpapers](http://wallpaperbeta.com/) 壁纸尺寸可以选择，甚至有高达4K分辨率的壁纸
+- [unsplash](https://unsplash.com/) 每十天更新10张图，不多，但质量很好
 
 ### 设计图库
 设计图库有免费和付费的资源，无论什么资源，关于版权你自己要负责！
